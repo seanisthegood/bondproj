@@ -1,11 +1,11 @@
-Bond Yield Exploration with FRED Data
+# 📈 Bond Yield Exploration
 📌 Overview
 
 This project explores U.S. Treasury yields and spreads using data from the FRED API
 .
 It starts with a Jupyter Notebook for fetching and visualizing yields, then builds toward a lightweight ETL pipeline and dashboard.
 
-Key goals:
+**Goal:** Explore the yield curve and bond spreads using FRED data.
 
 Understand yield curve shapes and spreads (e.g., 10Y–2Y, 10Y–3M).
 
