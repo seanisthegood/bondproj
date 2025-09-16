@@ -21,3 +21,7 @@ Thumbs.db
 # IDE settings
 .vscode/
 .idea/
+.ipynb_checkpoints
+.anaconda_backup
+anaconda_projects/
+.db
