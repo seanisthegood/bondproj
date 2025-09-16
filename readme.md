@@ -24,7 +24,7 @@ Plot yield curves and spreads across maturities.
 Highlight how to calculate Effective Annual Yield (EAY) and other bond metrics.
 
 Extendable to daily ETL jobs and a Streamlit dashboard.
-
+'''
 bond_yields/
 │── notebooks/
 │ └── 01_explore_fred.ipynb # Initial data exploration
@@ -35,7 +35,7 @@ bond_yields/
 │── requirements.txt # Dependencies
 │── README.md # Project overview
 │── .gitignore # Exclude venv/conda files, secrets
-
+'''
 🚀 Getting Started
 
 Clone this repo
