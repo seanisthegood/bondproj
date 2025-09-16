@@ -25,7 +25,16 @@ Highlight how to calculate Effective Annual Yield (EAY) and other bond metrics.
 
 Extendable to daily ETL jobs and a Streamlit dashboard.
 
-<pre> ## 📂 Project Structure ``` bond_yields/ │── notebooks/ │ └── 01_explore_fred.ipynb # Initial data exploration │ │── src/ │ └── fred_utils.py # Functions to fetch data from FRED │ │── requirements.txt # Dependencies │── README.md # Project overview │── .gitignore # Exclude venv/conda files, secrets ``` </pre>
+bond_yields/
+│── notebooks/
+│ └── 01_explore_fred.ipynb # Initial data exploration
+│
+│── src/
+│ └── fred_utils.py # Functions to fetch data from FRED
+│
+│── requirements.txt # Dependencies
+│── README.md # Project overview
+│── .gitignore # Exclude venv/conda files, secrets
 
 🚀 Getting Started
 
