@@ -35,7 +35,6 @@ bond_yields/
 │── requirements.txt # Dependencies
 │── README.md # Project overview
 │── .gitignore # Exclude venv/conda files, secrets
-🚀 Getting Started
 ```
 🚀 Getting Started
 
